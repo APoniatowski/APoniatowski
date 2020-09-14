@@ -13,3 +13,9 @@
 <a href="https://github.com/APoniatowski/routes">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=APoniatowski&repo=routes" />
 </a>
+
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/APoniatowski/count.svg" />
+</p>
