@@ -4,8 +4,6 @@ I'm a former systems engineer and account manager, who took a liking towards sof
 
 I hope you like what you see here.
 
-Skills: Go / Rust / Bash / Python
-
 - 🔭 I’m currently working on GoSSH 
 - ⚡ Fun fact: My heat tolerance is >1 million SHU 
 
