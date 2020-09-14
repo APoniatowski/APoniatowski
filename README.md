@@ -7,8 +7,8 @@
 
 
 <a href="https://github.com/APoniatowski/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=APoniatowski&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=APoniatowski&repo=GoSSH" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=APoniatowski&repo=GoSSH" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=APoniatowski&repo=routes" />
 </a>
