@@ -36,4 +36,7 @@ I hope you like what you see here.
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
 
 
-![Profile views](https://gpvc.arturio.dev/APoniatowski)  
+
+<p align="center">
+  <img src="https://gpvc.arturio.dev/APoniatowski" alt="Profile views">
+</p>
