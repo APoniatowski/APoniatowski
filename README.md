@@ -4,7 +4,7 @@ I'm a former systems engineer and account manager, who took a liking towards sof
 
 I hope you like what you see here.
 
-- 🔭 I’m currently working on GoSSH 
+- 🔭 I’m currently working on ZEHD 
 - ⚡ Fun fact: My heat tolerance is >1 million SHU 
 
 ## &#x1f4c8; GitHub Stats
