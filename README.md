@@ -16,6 +16,12 @@ I hope you like what you see here.
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=APoniatowski&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Adam's GitHub Stats" />
 </a>
 
+## Bot Stats:
+
+<a href="https://github.com/APoniatowski/APoniatowski">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=poniatowski-bot&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Adam's GitHub Stats" />
+</a>
+
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/NIXOS-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)
 ![](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
