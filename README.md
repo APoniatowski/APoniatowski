@@ -19,6 +19,10 @@ I hope you like what you see here.
 ## Bot Stats:
 
 <a href="https://github.com/APoniatowski/APoniatowski">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poniatowski-bot&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/APoniatowski/APoniatowski">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=poniatowski-bot&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Adam's GitHub Stats" />
 </a>
 
